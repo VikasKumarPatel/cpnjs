@@ -1,0 +1,11 @@
+{
+  "name": "cpnjs",
+  "version": "1.0.0",
+  "description": "A Node.js library to interact with CPN Tools models via TCP, enabling real-time Petri Net simulation, data exchange, and control",
+  "main": "index.js",
+  "keywords": ["cpn", "petri-net", "cpn-tools", "simulation"],
+  "author": "Vikas Kumar Patel",
+  "license": "MIT",
+  "readme": "README.npm.md"
+
+}
